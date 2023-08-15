@@ -7,7 +7,7 @@ The `copyWithin()` method was introduced in **EcmaScript 6** to empower the mani
 array.copyWithin(target, start, end)
 Parameters
 -target 🎯 (Required): The index where the copied elements should be placed. The values at this position will be overwritten.
--start 🚀 (Required): The index from which the copying should begin. The element at this index will be the starting point of the copied sequence.
+-start 🚀 (Required || optional): The index from which the copying should begin. The element at this index will be the starting point of the copied sequence.
 -end 🏁 (Optional): The index up to which the copying should occur. The element at this index will not be included in the copied sequence. If not specified, the default value is the length of the array.
 
 
