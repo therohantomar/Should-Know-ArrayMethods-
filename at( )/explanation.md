@@ -53,5 +53,4 @@ print(fruitBasket.at(-2));  // Output: 🍇 grapes
 
 Using the at() method with negative indices provides a convenient way to access elements from the end of an array without needing to calculate the exact index based on the array length. 🎉
 
-
-Please note that the emojis used here may not render correctly in all Markdown viewers or editors, as this depends on their support for emojis.```
+```

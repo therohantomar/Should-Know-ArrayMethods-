@@ -38,5 +38,5 @@ Explanation:
 - 🌍 Check if "array3" is the same as "array1". The output will be `false` since they are not the same array.
 - ✨ This behavior is due to the fact that the `.concat()` method creates a new array with references to the original elements. Mutating elements in the new array doesn't affect the parent arrays.
 
-Feel free to use this content in your .md file. If you have any more questions or need further assistance, feel free to ask!
+
 
