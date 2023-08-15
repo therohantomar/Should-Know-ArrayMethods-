@@ -3,7 +3,7 @@
 Welcome to the "Know Array Methods" repository! :wave:
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/therohantomar/Should-Know-ArrayMethods-)
-![GitHub contributors](https://img.shields.io/github/contributors/therohantomar)
+![GitHub contributors](https://img.shields.io/github/contributors/therohantomar/Should-Know-ArrayMethods)
 ![GitHub last commit](https://img.shields.io/github/last-commit/therohantomar/Should-Know-ArrayMethods-)
 
 ## Introduction :book:
