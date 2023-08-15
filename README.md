@@ -1,10 +1,10 @@
 # Know Array Methods with Emojis :bar_chart:
 
-Welcome to the "Know Array Methods with Emojis" repository! :wave:
+Welcome to the "Know Array Methods" repository! :wave:
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![GitHub repo size](https://img.shields.io/github/repo-size/therohantomar/Should-Know-ArrayMethods-)
+![GitHub contributors](https://img.shields.io/github/contributors/therohantomar/Should-Know-ArrayMethods-)
+![GitHub last commit](https://img.shields.io/github/last-commit/therohantomar/Should-Know-ArrayMethods-)
 
 ## Introduction :book:
 
