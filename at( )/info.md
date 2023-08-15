@@ -1,0 +1,3 @@
+ECMAScript 2022 (ES13) introduced a new method called at() for arrays. This method allows you to easily retrieve values from an array without having to use index-based access. Instead of accessing array elements using numbers, you can now use the at() method.
+
+The at() method takes an index (a position in the array) as its input. When you use at() with a specific index, it will give you the value stored at that position in the array. This means you can easily retrieve the value of the last element, the first element, or any element in the middle of the array using this method. It simplifies the process of accessing array elements and makes it more convenient for developers.
