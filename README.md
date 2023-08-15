@@ -1,4 +1,4 @@
-# Know Array Methods with Emojis :bar_chart:
+# Know Array Methods :bar_chart:
 
 Welcome to the "Know Array Methods" repository! :wave:
 
