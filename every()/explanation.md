@@ -1,7 +1,7 @@
 :ballot_box_with_check: Array.prototype.every()
 The every() method is available in ECMAScript 5 (ES5) and can be used on arrays. It iterates over each element of the array and applies a callback function to test a specific condition. The method returns a boolean value indicating whether all elements in the array satisfy the provided condition.
 
-
+javascript ```
 :memo: Syntax
 
 array.every((element, index, array) => {
