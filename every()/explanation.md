@@ -4,11 +4,9 @@ The every() method is available in ECMAScript 5 (ES5) and can be used on arrays.
 
 :memo: Syntax
 
-javascript ```
 array.every((element, index, array) => {
   // condition to test
 });
-```
 
 :one: element: The current element being processed.
 :two: index: The index of the current element.
@@ -21,7 +19,7 @@ The every() method returns true if all elements in the array satisfy the conditi
 
 :rocket: Example Usage
 
-javascript ```
+
 const numbers = [2, 4, 6, 8, 10];
 
 const allEven = numbers.every((element) => {
@@ -31,7 +29,6 @@ const allEven = numbers.every((element) => {
 console.log(allEven); // Output: true
 
 
-```
 
 n this example, the every() method checks if all elements in the numbers array are even. The condition element % 2 === 0 is used to test if each element is divisible by 2. Since all elements satisfy this condition, the every() method returns true.
 
