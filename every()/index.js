@@ -47,10 +47,19 @@ function isDuplicateRecord(element, index, array) {
   return index === array.indexOf(element.name);
 }
 
+
+//operation on sparse array
 // Check if every element in the array is unique based on the defined criteria
 console.log(Students.every(isDuplicateRecord));
 
+// We're creating an array with mixed values, including an empty slot
+const array = ["1", , "2", "two"];
 
+// Using the every() function to check if all non-empty elements are strings
+const allStrings = array.every((element) => typeof(element) === "string");
+
+// Output the result of the every() function
+console.log(allStrings); // Output: true
 
 
 
