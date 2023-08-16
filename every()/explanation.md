@@ -10,16 +10,16 @@ array.every((element, index, array) => {
 });
 
 
-:one: element: The current element being processed.
-:two: index: The index of the current element.
-:three: array: The array on which the every() method was called.
+1: element: The current element being processed.
+2: index: The index of the current element.
+3: array: The array on which the every() method was called.
 The callback function takes three parameters: element, index, and array. Within the callback function, you can define the condition that each element should satisfy.
 
-:arrow_right: Return Value
+➜ Return Value
 
 The every() method returns true if all elements in the array satisfy the condition specified by the callback function. If any element fails to satisfy the condition, the method returns false.
 
-:rocket: Example Usage
+🚀 Example Usage
 
 const numbers = [2, 4, 6, 8, 10];
 
